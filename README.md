@@ -13,3 +13,7 @@
 - ⚡ Fun fact: I like to listen to songs during the day and to travel on weekends.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TugrulCanMercan&layout=compact)](https://github.com/TugrulCanMercan/github-readme-stats)
+## CONTACT
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/tu%C4%9Frul-can-mercan-603ba1209/)
+&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/TugrulCanMercan)
