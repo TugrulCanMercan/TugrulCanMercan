@@ -12,4 +12,4 @@
 - 😄 Pronouns: He/his
 - ⚡ Fun fact: I like to listen to songs during the day and to travel on weekends.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TugrulCanMercan&layout=compact)](https://github.com/TugrulCanMercan/github-readme-stats)
